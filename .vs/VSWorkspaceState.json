@@ -3,14 +3,8 @@
     "",
     "\\deployments",
     "\\deployments\\on-prem",
-    "\\deployments\\on-prem\\topology",
-    "\\deployments\\on-prem\\topology\\2-tier-service-mesh-lite",
-    "\\deployments\\on-prem\\topology\\2-tier-service-mesh-lite\\serviceType-Ingress",
-    "\\deployments\\OpenShift",
-    "\\deployments\\OpenShift\\topology",
-    "\\deployments\\OpenShift\\topology\\2-tier-service-mesh-lite",
-    "\\deployments\\OpenShift\\topology\\2-tier-service-mesh-lite\\serviceType-Ingress"
+    "\\deployments\\on-prem\\topology"
   ],
-  "SelectedNode": "\\deployments\\OpenShift\\topology\\2-tier-service-mesh-lite\\serviceType-Ingress\\IngressDemo.md",
+  "SelectedNode": "\\deployments\\on-prem\\topology\\README.md",
   "PreviewInSolutionExplorer": false
 }
